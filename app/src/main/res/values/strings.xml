@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="header">Ask the ball a question</string>
+    <string name="footer">Press the ball for an answer</string>
+    <string name="ball1">Ask again later</string>
+    <string name="ball2">No!</string>
+    <string name="ball3">Yes! </string>
+    <string name="ball4">I have no idea</string>
+    <string name="ball5">The answer is yes</string>
+    <string name="homeBall">The answer</string>
+
 </resources>
